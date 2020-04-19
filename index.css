@@ -1,0 +1,119 @@
+.index-nav {
+    height: 750px;
+    background-image: url(images/berlin-1266337_1920.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    position: relative;
+
+}
+
+.about-nav {
+    height: 400px;
+    background-image: url(images/berlin-1266337_1920.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    position: relative;
+}
+
+
+.brand-logo {
+    margin-left: 5em;
+    font-family: 'Pacifico', cursive;
+}
+
+.right {
+    margin-right: 7em;
+    font: font-family: 'Roboto', sans-serif;
+    font-weight: 600;
+}
+
+.head {
+
+    margin-top: 10em;
+    margin-left: 5em;
+}
+
+.greeno {
+    font-family: 'Pacifico', cursive;
+    color: teal;
+}
+
+h1,
+h3 {
+    font: font-family: 'Roboto', sans-serif;
+    font-weight: bold;
+}
+
+h6 {
+    font: font-family: 'Roboto', sans-serif;
+    margin-top: 20px;
+    font-weight: 400;
+    text-align: justify;
+}
+
+h5,
+h4 {
+    font: font-family: 'Roboto', sans-serif;
+    font-weight: 600;
+}
+
+.midtext {
+    margin-top: 50px;
+}
+
+.archi {
+    height: 100px;
+    width: 100px;
+    padding: 10px;
+    margin-left: 10px;
+    align-items: center;
+}
+
+.btn-large,
+.btn {
+    border-radius: 3em;
+    font: font-family: 'Roboto', sans-serif;
+    font-weight: 700;
+    box-shadow: 10em;
+    margin-top: 2em;
+}
+
+.mid2 {
+    margin-top: 50px;
+}
+
+.mid3 {
+    margin: 20px;
+    padding: 20px;
+}
+
+.mid3 {
+    box-shadow: 0 0 0px 0 rgba(0, 0, 0, 0.3);
+    transition: box-shadow 500ms;
+}
+
+.mid3:hover {
+    box-shadow: 0 5px 40px 0 rgba(0, 0, 0, 0.5);
+}
+
+.footer {
+    background-color: black;
+    margin-bottom: 0px;
+}
+
+.pic {
+    width: 30px;
+    height: 30px;
+}
+
+.cardpic {
+    width: 300px;
+    height: 350px;
+}
+
+#map {
+    height: 400px;
+    /* The height is 400 pixels */
+    width: 100%;
+    /* The width is the width of the web page */
+}
